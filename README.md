@@ -19,6 +19,7 @@ mongodb     | Popular document-store database
 mycli       | Awesome CLI for MySQL
 mysql       | You know.
 nmap        | Network scanner
+nvm         | Node Version Manager - makes installing and managing multiple versions of Node.js or IO.js easy
 osquery     | Awesome system querying tool developed by Facebook
 pgcli       | Awesome CLI for PostgreSQL
 postgresql  | Amazing open-source RDBMS
@@ -26,5 +27,6 @@ python      | Programming Language
 python3     | Python++
 scala       | Programming Language
 sqlite      | light-weight database
+tor         | anonymous distributed network
 wget        | file retrieval via HTTP, HTTPS, and FTP
 zsh         | Great shell
