@@ -27,6 +27,7 @@ pgcli       | Awesome CLI for PostgreSQL
 postgresql  | Amazing open-source RDBMS
 python      | Programming Language
 python3     | Python++
+redis       | A light-weight in-memory key-value store
 scala       | Programming Language
 sqlite      | light-weight database
 tor         | anonymous distributed network
