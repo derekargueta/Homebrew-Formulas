@@ -11,7 +11,6 @@ docker      | Deployment containers
 gcc         | GNU compiler collection (primarily for C/C++)
 go          | Programming language
 gradle      | A better Ant
-groovy      | Scripting language for the JVM
 htop        | Monitor processes in-Terminal
 lua         | Scripting language
 maven       | JVM dependencies
