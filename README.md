@@ -12,12 +12,14 @@ gcc         | GNU compiler collection (primarily for C/C++)
 go          | Programming language
 gradle      | A better Ant
 groovy      | Scripting language for the JVM
+htop        | Monitor processes in-Terminal
 lua         | Scripting language
 maven       | JVM dependencies
 mogenerator | data model generator for iOS/OSX Core Data
 mongodb     | Popular document-store database
 mycli       | Awesome CLI for MySQL
 mysql       | You know.
+nginx       | Reverse proxy for high-performance serving
 nmap        | Network scanner
 nvm         | Node Version Manager - makes installing and managing multiple versions of Node.js or IO.js easy
 osquery     | Awesome system querying tool developed by Facebook
