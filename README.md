@@ -32,4 +32,5 @@ sqlite        | light-weight database
 tor           | anonymous distributed network
 wifi-password | Sweet bash script that shows you the wifi password of the current network you're on
 wget          | file retrieval via HTTP, HTTPS, and FTP
+youtube-dl    | Command-line tool for downloading Youtube videos. Useful for watching conference talks on flights and other no-wifi areas.
 zsh           | Great shell
